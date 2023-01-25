@@ -1,0 +1,19 @@
+{
+    "name": "kibet/kibet-plugin",
+    "description": "A custom starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Kibet\\KibetPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kibetrono",
+            "email": "kibetdavidro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
